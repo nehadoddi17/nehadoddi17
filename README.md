@@ -25,7 +25,17 @@ My interests span software engineering, backend development, Generative AI, LLM 
 
 ### 🚀 Featured Projects
 
-**1. Bulk Certificate Generator API**
+**1. YottaFlex AI – Inventory Reconciliation System**
+
+- Developed an inventory management and reconciliation system to unify inventory across stores, warehouses, and online channels.
+- Implemented inventory tracking, Available-to-Promise (ATP) calculations, reservations, and inventory movement handling using FastAPI and PostgreSQL.
+- Built synthetic dataset generation and validation pipelines to test large-scale inventory scenarios.
+- Developed REST APIs and a web-based dashboard for inventory visibility and reconciliation.
+- Achieved **12 passing automated tests** and validated large-scale generated datasets with zero validation errors.
+
+**Tech:** Python, FastAPI, PostgreSQL, SQLAlchemy, Pandas, pytest, HTML, CSS, JavaScript
+
+**2. Bulk Certificate Generator API**
 - Developed a Python and FastAPI service for handling bulk certificate-generation requests.
 - Implemented job ID tracking, background PDF generation, and per-recipient status handling.
 - Added input validation and failure isolation.
@@ -33,21 +43,21 @@ My interests span software engineering, backend development, Generative AI, LLM 
 
 **Tech:** Python, FastAPI, SQLAlchemy, SQLite, ReportLab, pytest
 
-**2. Parents Wellness – Healthcare & Wellness Platform** 🌱 *(Currently in Progress)*
+**3. Parents Wellness – Healthcare & Wellness Platform** 🌱 *(Currently in Progress)*
 - Exploring a free wellness platform designed to help adults aged 40+ maintain physical health, emotional well-being, and independence.
 - Focused on accessible guidance around homemade meals, safe exercises, emotional wellness, family connection, and preventive health awareness.
 - Exploring ways to make wellness information simple and approachable for both parents and their families.
 
 **Focus:** Healthcare Technology, Wellness, User-Centered Design
 
-**3. Multi-Agent AI Framework for Automated Report Generation and Visual Analytics**
+**4. Multi-Agent AI Framework for Automated Report Generation and Visual Analytics**
 - Contributed as part of a three-member academic team to a multi-agent framework for automated data analysis and report generation.
 - Worked on a modular workflow involving file processing, data interpretation, analysis, visualization planning, and report generation.
 - Used data-processing tools and LLaMA 3.1 through Ollama to support automated insights and visual analytics.
 
 **Tech:** Python, FastAPI, Pandas, NumPy, LLaMA 3.1, Ollama, Plotly
 
-**4. Legal AI Chatbot – Indian Law**
+**5. Legal AI Chatbot – Indian Law**
 - Developed an AI-powered question-answering chatbot for Indian legal information.
 - Used LegalBERT, GPT-2, and Retrieval-Augmented Generation (RAG) to retrieve relevant legal information before generating responses.
 - Evaluated retrieval and response quality, achieving 82.5% retrieval accuracy and a reported average response time of 1.4 seconds.
@@ -55,7 +65,7 @@ My interests span software engineering, backend development, Generative AI, LLM 
 
 **Tech:** Python, LegalBERT, GPT-2, RAG, FAISS, NLP
 
-**5. SaaSNova – SaaS Subscription Management Platform**
+**6. SaaSNova – SaaS Subscription Management Platform**
 - Collaborated in a seven-member team to build a subscription management platform.
 - Worked on features involving subscription management, authentication, CRUD operations, analytics, Excel export, and renewal reminders.
 - Secured **2nd place at Techxelerate Hackathon 2025, BITS Hyderabad**.
