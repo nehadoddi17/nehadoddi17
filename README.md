@@ -12,7 +12,7 @@ My interests span software engineering, backend development, Generative AI, LLM 
 
 ### 💼 Experience
 
-**AI & Automation Intern | Young Founders School (YFS)**  
+**AI Intern | Young Founders School (YFS)**  
 *March 2026 – August 2026 | Remote*
 
 - Contributed to the development of a scheduling platform using Next.js, React, TypeScript, REST APIs, and PostgreSQL.
